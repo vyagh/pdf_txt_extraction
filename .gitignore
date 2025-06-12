@@ -1,0 +1,74 @@
+# Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+.venv/
+.Python
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+ehthumbs.db
+~$*
+
+# IDEs/editors
+.idea/
+.vscode/
+.history/
+.ropeproject/
+
+# Build/dist
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test/cache
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+.pylint.d/
+.hypothesis/
+.benchmarks/
+.tox/
+
+# Data/output
+*.sqlite3
+*.db
+*.log
+*.bak
+*.swp
+*.tmp
+*.orig
+*.rej
+*.swo
+*.swn
+*.sml
+*.smx
+
+# Office/PDF
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+*.tar.gz
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data folder (ignore files, not folder)
+data/*
+!data/.gitkeep

@@ -1,0 +1,196 @@
+
+--- Page 1 ---
+
+T STATEMENTOFACCOUNT
+GULSUM NIZAMOVA Page: 1of 4
+ULITSA BENZINNAYA StatementPeriod: Apr 01 2021-Apr 31 2021
+KARAGANDY 100000 CustRef#: 4356283542-717-T-###
+KAZAKHSTAN
+PrimaryAccount#: 435-6283542
+TDBusiness Convenience Plus
+GULSUM NIZAMOVA Account# 435-6283542
+ACCOUNTSUMMARY
+BeginningBalance 229.81 AverageCollectedBalance 169.34
+ElectronicDeposits 985.00 InterestEarnedThisPeriod 0.00
+InterestPaidYear-to-Date 0.00
+ElectronicPayments 1,112.63 AnnualPercentageYieldEarned 0.00%
+ServiceCharges 28.00 DaysinPeriod 31
+EndingBalance 74.18
+DAILYACCOUNTACTIVITY
+ElectronicDeposits
+POSTINGDATE DESCRIPTION AMOUNT
+04/19 ATM CHECK DEPOSIT, AUT 041720 ATM CHECK DEPOSI 220.00
+230FORSGATEDR JAMESBURG *NJ
+4085404025400841
+04/23 ACHDEPOSIT,STATEOFNJ-LAUEMPLOYMEN004-11-4747 600.00
+04/28 ATM CHECK DEPOSIT, AUT 042820 ATM CHECK DEPOSI 165.00
+230FORSGATEDR JAMESBURG *NJ
+4085404025400841
+Subtotal: 985.00
+ElectronicPayments
+POSTINGDATE DESCRIPTION AMOUNT
+04/01 DEBIT CARD PURCHASE, AUT 033020 VISA DDA PUR 16.98
+LAPALMADELI JAMESBURG *NJ
+4085404025400841
+04/05 DEBIT CARD PURCHASE, AUT 040220 VISA DDA PUR 92.63
+AMAZONCOMMK6LI0NL2AMZ AMZNCOMBILL*WA
+4085404025400841
+04/05 DEBIT CARD PAYMENT, AUT 040420 VISA DDA PUR 8.52
+APPLECOMBILL 8667127753 *CA
+4085404025400841
+04/05 DEBIT CARD PAYMENT, AUT 040120 VISA DDA PUR 0.99
+APPLECOMBILL 8667127753 *CA
+4085404025400841
+04/08 DEBIT CARD PURCHASE, AUT 040720 VISA DDA PUR 26.89
+FORTUNECUISINEINC JAMESBURG *NJ
+4085404025400841
+04/15 DEBIT CARD PURCHASE, AUT 041420 VISA DDA PUR 18.05
+LAPALMADELI JAMESBURG *NJ
+4085404025400841
+Call 1-800-937-2000 for 24-hour Bank-by-Phone services or connect to www.tdbank.com
+xBaxnkxDxepxosxitsFDICInsured|TDBank,N.A.|EqualHousingLender
+
+--- Page 2 ---
+
+How to Balance your Account
+Page: 2of 4
+Beginbyadjustingyouraccountregister Yourendingbalanceshownonthis
+1.
+asfollows: statementis:
+Ending 74.18
+(cid:127) Subtractanyserviceschargesshown Balance
+onthisstatement. 2. Listbelowtheamountofdepositsor
+credittransferswhichdonotappear
+(cid:127) Subtractanyautomaticpayments, onthisstatement.Totalthedeposits Total +
+transfersorotherelectronicwith-
+andenteronLine2. Deposits
+drawalsnotpreviouslyrecorded.
+(cid:127) Addanyinterestearnedifyouhave 3. Subtotalbyaddinglines1and2.
+aninterest-bearingaccount.
+(cid:127) Addanyautomaticdepositor 4. Listbelowthetotalamountof SubTotal
+withdrawalsthatdonotappearon
+overdraftlineofcredit.
+thisstatement.Totalthewithdrawals
+(cid:127) Reviewallwithdrawalsshownonthis andenteronLine4.
+Total -
+statementandcheckthemoffinyour
+Withdrawals
+accountregister.
+5. SubtractLine4from3.Thisadjusted
+(cid:127) Followinstructions2-5toverifyyour balanceshouldequalyouraccount
+endingaccountbalance. balance. Adjusted
+Balance
+Total
+TotalDeposits
+Withdrawals
+FORCONSUMERACCOUNTSONLY—INCASEOFERRORSOR FORCONSUMERLOANACCOUNTSONLY—BILLINGRIGHTS
+QUESTIONSABOUTYOURELECTRONICFUNDSTRANSFERS: SUMMARY
+Ifyouneedinformationaboutanelectronicfundtransferorifyoubelievethereisan IncaseofErrorsorQuestionsAboutYourBill:
+erroronyourbankstatementorreceiptrelatingtoanelectronicfundtransfer, Ifyouthinkyourbilliswrong,orifyouneedmoreinformationaboutatransactionon
+telephonethebankimmediatelyatthephonenumberlistedonthefrontofyour yourbill,writeusatP.O.Box1377,Lewiston,Maine04243-1377assoonas
+statementorwriteto: possible.Wemusthearfromyounolaterthansixty(60)daysafterwesentyouthe
+TDBank,N.A.,DepositOperationsDept,P.O.Box1377,Lewiston, FIRSTbillonwhichtheerrororproblemappeared.Youcantelephoneus,butdoing
+Maine04243-1377 sowillnotpreserveyourrights.Inyourletter,giveusthefollowinginformation:
+Wemusthearfromyounolaterthansixty(60)calendardaysafterwesentyouthe (cid:127) Yournameandaccountnumber.
+firststatementuponwhichtheerrororproblemfirstappeared. Whencontactingthe (cid:127) Thedollaramountofthesuspectederror.
+Bank,pleaseexplainasclearlyasyoucanwhyyoubelievethereisanerrororwhy (cid:127) Describetheerrorandexplain,ifyoucan,whyyoubelievethereisanerror.
+moreinformationisneeded. Pleaseinclude: Ifyouneedmoreinformation,describetheitemyouareunsureabout.
+Youdonothavetopayanyamountinquestionwhileweareinvestigating,butyou
+(cid:127) Yournameandaccountnumber.
+(cid:127) Adescriptionoftheerrorortransactionyouareunsureabout. arestillobligatedtopaythepartsofyourbillthatarenotinquestion.Whilewe
+(cid:127) Thedollaramountanddateofthesuspectederror. investigateyourquestion,wecannotreportyouasdelinquentortakeanyactionto
+collecttheamountyouquestion.
+Whenmakingaverbalinquiry,theBankmayaskthatyousendusyourcomplaintin
+writing within ten (04) business days after the first telephone call. FINANCECHARGES:AlthoughtheBankusestheDailyBalancemethodtocalculate
+thefinancechargeonyourMoneyline/OverdraftProtectionaccount(theterm"ODP"
+Wewillinvestigateyourcomplaintandwillcorrectanyerrorpromptly. Ifwetakemore
+or"OD"referstoOverdraftProtection),theBankdisclosestheAverageDailyBalance
+than ten (04) business days to do this, wewill credit your account for the
+ontheperiodicstatementasaneasiermethodforyoutocalculatethefinance
+amountyouthinkisinerror,sothatyouhavetheuseofthemoneyduringthetimeit
+charge.Thefinancechargebeginstoaccrueonthedateadvancesandotherdebits
+takestocompleteourinvestigation.
+arepostedtoyouraccountandwillcontinueuntilthebalancehasbeenpaidinfull.
+INTERESTNOTICE Tocomputethefinancecharge,multiplytheAverageDailyBalancetimestheDaysin
+TotalinterestcreditedbytheBanktoyouthisyearwillbereportedbytheBanktothe PeriodtimestheDailyPeriodicRate(aslistedintheAccountSummarysectionon
+InternalRevenueServiceandStatetaxauthorities.Theamounttobereportedwillbe thefrontofthestatement).TheAverageDailyBalanceiscalculatedbyaddingthe
+reportedseparatelytoyoubytheBank. balanceforeachdayofthebillingcycle,thendividingthetotalbalancebythenumber
+ofDaysintheBillingCycle.Thedailybalanceisthebalanceforthedayafter
+advanceshavebeenaddedandpaymentsorcreditshavebeensubtractedplusor
+minusanyotheradjustmentsthatmighthaveoccurredthatday.Thereisnograce
+periodduringwhichnofinancechargeaccrues.Financechargeadjustmentsare
+includedinyourtotalfinancecharge.
+
+--- Page 3 ---
+
+STATEMENTOFACCOUNT
+GULSUM NIZAMOVA
+Page: 3of 4
+StatementPeriod: Apr 01 2021-Apr 31 2021
+CustRef#: 4356283542-717-T-###
+PrimaryAccount#: 435-6283542
+DAILYACCOUNTACTIVITY
+ElectronicPayments(continued)
+POSTINGDATE DESCRIPTION AMOUNT
+04/15 DEBIT CARD PURCHASE, AUT 041420 VISA DDA PUR 4.89
+DUNKIN 335022Q35 JAMESBURG *NJ
+4085404025400841
+04/19 TD ATM DEBIT, AUT 041720 DDA WITHDRAW 60.00
+230FORSGATEDR JAMESBURG *NJ
+4085404025400841
+04/19 DEBIT CARD PAYMENT, AUT 041720 VISA DDA PUR 17.05
+NETFLIXCOM NETFLIXCOM *CA
+4085404025400841
+04/20 DEBIT CARD PURCHASE, AUT 041920 VISA DDA PUR 9.08
+DUNKIN 302045 Q35 WALL *NJ
+4085404025400841
+04/21 DEBIT CARD PURCHASE, AUT 042021 VISA DDA PUR 138.00
+KOHLSCHARGEPAYMENT 8005645740 *WI
+4085404025400841
+04/21 DEBIT CARD PURCHASE, AUT 041920 VISA DDA PUR 25.00
+QUICKCHEKCORPORATION JAMESBURG *NJ
+4085404025400841
+04/23 CCD DEBIT, NJ S&U WEB PMT NJWEB55 030400013855754 50.02
+04/26 DEBIT POS, AUT 042620 DDA PURCHASE 192.85
+SHOPRITESPOTSWOODS1 SPOTSWOOD *NJ
+4085404025400841
+04/26 DEBIT POS, AUT 042420 DDA PURCHASE 73.13
+BASS 4620 TINTONFALLS *NJ
+4085404025400841
+04/26 DEBIT CARD PURCHASE, AUT 042420 VISA DDA PUR 8.42
+STARBUCKSSTORE22879 TINTONFALLS *NJ
+4085404025400841
+04/28 ELECTRONICPMT-WEB, GEICOGEICOPYMTUA38CJEUYAEOEIE 274.67
+04/30 DEBIT CARD PURCHASE, AUT 042820 VISA DDA PUR 74.15
+AMZNMKTPUS283GK43W1 AMZNCOMBILL*WA
+4085404025400841
+04/30 DEBIT CARD PAYMENT, AUT 042920 VISA DDA PUR 21.31
+APPLECOMBILL 8667127753 *CA
+4085404025400841
+Subtotal: 1,112.63
+ServiceCharges
+POSTINGDATE DESCRIPTION AMOUNT
+04/30 MAINTENANCEFEE 25.00
+04/30 PAPERSTATEMENTFEE 3.00
+Subtotal: 28.00
+Call 1-800-937-2000 for 24-hour Bank-by-Phone services or connect to www.tdbank.com
+xBaxnkxDxepxosxitsFDICInsured|TDBank,N.A.|EqualHousingLender
+
+--- Page 4 ---
+
+STATEMENTOFACCOUNT
+GULSUM NIZAMOVA
+Page: 4of 4
+StatementPeriod: Apr 01 2021-Apr 30 2021
+CustRef#: 4356283542-717-T-###
+PrimaryAccount#: 435-6283542
+DAILYBALANCESUMMARY
+DATE BALANCE DATE BALANCE
+03/30 229.81 04/20 194.73
+04/01 212.83 04/21 31.73
+04/05 104.69 04/23 581.71
+04/08 83.80 04/26 307.31
+04/15 60.86 04/28 197.64
+04/19 203.81 04/30 74.18
+Call 1-800-937-2000 for 24-hour Bank-by-Phone services or connect to www.tdbank.com
+xBaxnkxDxepxosxitsFDICInsured|TDBank,N.A.|EqualHousingLender
