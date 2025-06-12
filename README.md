@@ -1,73 +1,43 @@
 # Bank Statement PDF Extractor
 
-This project helps you extract important information from bank statement PDFs (like TD Bank) using Python. It supports both digital and scanned PDFs, and provides multiple extraction methods for flexibility and accuracy.
+Extracts key information from bank statement PDFs (like TD Bank) using Python. Supports both digital and scanned PDFs with multiple extraction methods.
 
-## Extraction Methods
+## Methods
 
-### 1. plumber/ (pdfplumber)
-- **Best for:** Digital/text PDFs (where text can be selected/copied)
-- **How it works:** Uses `pdfplumber` to extract text directly from the PDF.
-- **Extracts:**
-  - Customer Name
-  - Customer Address
-  - Statement Period
-  - Account Summary
-  - Daily Balance Summary
+- **plumber/** (pdfplumber): Digital/text PDFs. Fast, reliable text extraction.
+- **pymupdf_method/** (PyMuPDF): Digital/text PDFs. Very fast, robust for complex layouts.
+- **tesseract_spacy/** (OCR): Scanned/image PDFs. Uses OCR, slower and less accurate.
 
-### 2. pymupdf_method/ (PyMuPDF)
-- **Best for:** Digital/text PDFs (alternative to pdfplumber)
-- **How it works:** Uses `PyMuPDF` (imported as `fitz`) to extract text and layout information from the PDF.
-- **Extracts:**
-  - Customer Name
-  - Customer Address
-  - Statement Period
-  - Account Summary
-  - Daily Balance Summary
+**Extracted fields:**
+- Customer Name
+- Customer Address
+- Statement Period
+- Account Summary
+- Daily Balance Summary (not available in OCR)
 
-### 3. tesseract_spacy/ (OCR)
-- **Best for:** Scanned/image PDFs (where text cannot be selected/copied)
-- **How it works:** Uses `pdf2image` to convert PDF pages to images, then `pytesseract` (OCR) to extract text from images.
-- **Extracts:**
-  - Customer Name
-  - Customer Address
-  - Statement Period
-  - Account Summary
+## Usage
 
-## How to Use
+1. Place PDFs in `data/`.
+2. Run one of:
+   - `python plumber/extract_pdf_text.py`
+   - `python pymupdf_method/extract_pdf_text.py`
+   - `python tesseract_spacy/extract_pdf_text.py`
+3. Output is shown as JSON in the terminal.
 
-1. Put your PDF(s) in the `data/` folder.
-2. To use the digital PDF methods:
-   - **pdfplumber:**
-     ```bash
-     python plumber/extract_pdf_text.py
-     ```
-   - **PyMuPDF:**
-     ```bash
-     python pymupdf_method/extract_pdf_text.py
-     ```
-3. To use the scanned PDF (OCR) method:
-   ```bash
-   python tesseract_spacy/extract_pdf_text.py
-   ```
-4. The results will be shown as JSON in your terminal.
+## Comparison
 
-## Method Comparison
+| Method                | Best for             | Speed         | Accuracy  | Features Extracted                |
+|----------------------|---------------------|---------------|-----------|-----------------------------------|
+| pdfplumber           | Digital/text PDFs   | 0.35 seconds  | High      | All fields incl. daily balances   |
+| PyMuPDF (fitz)       | Digital/text PDFs   | 0.03 seconds  | High      | All fields incl. daily balances   |
+| tesseract_spacy (OCR)| Scanned/image PDFs  | 14.82 seconds | Moderate  | Most fields (no daily balances)   |
 
-| Method                | Best for             | Speed (approx) | Accuracy         | Features Extracted                |
-|----------------------|---------------------|----------------|------------------|-----------------------------------|
-| pdfplumber           | Digital/text PDFs   | 0.35 seconds   | High             | All fields incl. daily balances   |
-| PyMuPDF (fitz)       | Digital/text PDFs   | 0.03 seconds   | High             | All fields incl. daily balances   |
-| tesseract_spacy (OCR)| Scanned/image PDFs  | 14.82 seconds  | Moderate         | Most fields (no daily balances)   |
+## Recommendations
 
-- **pdfplumber** and **PyMuPDF** both work well for digital PDFs, with similar speed and accuracy. PyMuPDF may be more robust for some complex layouts.
-- **tesseract_spacy** is necessary for scanned/image PDFs, but is slower and may be less accurate, especially for tables or fine details.
-
-## Conclusion & Recommendations
-
-- **For digital/text PDFs:** Use either **pdfplumber** or **PyMuPDF**. Both extract all key fields, including the daily balance summary, quickly and accurately. If you encounter extraction issues with one, try the other.
-- **For scanned/image PDFs:** Use **tesseract_spacy** (OCR). It is slower and may miss some structured data, but is the only option for non-selectable PDFs.
-- **Overall best:** For most users with standard digital bank statements, **pdfplumber** is recommended for its simplicity and reliability. Use **PyMuPDF** as a strong alternative. Use **tesseract_spacy** only when dealing with scanned or photographed documents.
+- **Digital PDFs:** Use **pdfplumber** or **PyMuPDF**. Try both if needed.
+- **Scanned PDFs:** Use **tesseract_spacy** (OCR).
+- **Best overall:** **pdfplumber** for most digital statements; **PyMuPDF** for speed or complex layouts; **tesseract_spacy** only for scanned/image files.
 
 ---
 
-You can easily extend these scripts to handle more banks or more fields if needed. 
+Easily extendable for more banks or fields. 
